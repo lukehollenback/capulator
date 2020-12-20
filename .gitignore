@@ -33,6 +33,11 @@ build/
 # vendor/
 
 #
+# Local project files.
+#
+.vscode/
+
+#
 # Program run output files.
 #
 out.csv
