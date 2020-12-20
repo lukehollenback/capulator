@@ -1,5 +1,7 @@
 # Capulator
 
+<img src="https://img.shields.io/badge/status-Complete-green.svg" alt="Status: Complete"/>
+
 Capulator is a basic capital gains calculator for cryptocurrency traders. Given a CSV-formatted
 ledger file of cryptocurrency purchases and sales, it performs FIFO cost basis and capital gains
 calculations. Results are output back to a new CSV-formatted ledger file. Multiple symbols are
